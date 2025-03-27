@@ -23,4 +23,5 @@ void train() {
 void predict() {
 
 	printf("predict");
+	printf("The second features is added");
 }
